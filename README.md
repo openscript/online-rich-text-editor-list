@@ -1,2 +1,2 @@
-# online-rich-text-editor-list
-A list of online rich text editors.
+# Online rich text editor list
+This document lists online rich text editors. Everyone is welcome to contribute.
