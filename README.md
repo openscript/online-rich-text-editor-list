@@ -13,4 +13,4 @@ This document lists online rich text editors. Everyone is welcome to contribute.
 
 ## Description
 ### CKEditor
-There is a file browser avaiable, but it's not free.
+- [CKFinder](https://cksource.com/ckfinder) is a file browser extension for the CKEditor. It's not free (>= 99$).
