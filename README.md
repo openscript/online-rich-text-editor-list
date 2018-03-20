@@ -10,6 +10,7 @@ This document lists online rich text editors. Everyone is welcome to contribute.
 | [Summernote](#summernote) | [🔗](http://summernote.org/) | [🔗](https://github.com/summernote/summernote) | [🔗](http://summernote.org/examples/) | ![](https://img.shields.io/github/stars/summernote/summernote.svg?label=Stars%20on%20GitHub) | JQuery 2 |
 | [TinyMCE](#tinymce)  | [🔗](https://www.tinymce.com/) | [🔗](https://github.com/tinymce/tinymce) | [🔗](https://www.tinymce.com/docs/demo/full-featured/) | ![](https://img.shields.io/github/stars/tinymce/tinymce.svg?label=Stars%20on%20GitHub) | none |
 | [trumbowyg](#trumbowyg)  | [🔗](http://alex-d.github.io/Trumbowyg/) | [🔗](https://github.com/Alex-D/Trumbowyg) | [🔗](http://alex-d.github.io/Trumbowyg/) | ![](https://img.shields.io/github/stars/Alex-D/Trumbowyg.svg?label=Stars%20on%20GitHub) | JQuery 3 |
+| [Froala WYSIWYG Editor](#froala-wysiwyg-editor)  | [🔗](https://www.froala.com/wysiwyg-editor) | [🔗](https://github.com/froala/wysiwyg-editor) | [🔗](https://www.froala.com/wysiwyg-editor) | ![](https://img.shields.io/github/stars/froala/wysiwyg-editor.svg?label=Stars%20on%20GitHub) | JQuery >= 1.11.0 |
 
 ## Description
 ### CKEditor
@@ -30,3 +31,6 @@ This document lists online rich text editors. Everyone is welcome to contribute.
 
 ### Trumbowyg
 ![](screenshots/trumbowyg.png)
+
+### Froala WYSIWYG Editor
+![](https://raw.githubusercontent.com/froala/wysiwyg-editor/master/editor.jpg)
